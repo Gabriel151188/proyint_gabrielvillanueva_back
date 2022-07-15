@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://villanueva-gabriel.web.app")
 public class UsuariosController {
     @Autowired IUsuariosService iusuariosService;
     
