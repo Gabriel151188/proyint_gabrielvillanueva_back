@@ -1,0 +1,11 @@
+com\portfolio\gvp\Controller\PersonaController.class
+com\portfolio\gvp\Entity\Persona.class
+com\portfolio\gvp\GvpApplication.class
+com\portfolio\gvp\Service\ImpPersonaService.class
+com\portfolio\gvp\Interface\IUsuariosService.class
+com\portfolio\gvp\Service\ImpUsuariosService.class
+com\portfolio\gvp\Repository\IPersonaRepository.class
+com\portfolio\gvp\Controller\UsuariosController.class
+com\portfolio\gvp\Entity\Usuarios.class
+com\portfolio\gvp\Interface\IPersonaService.class
+com\portfolio\gvp\Repository\IUsuariosRepository.class
